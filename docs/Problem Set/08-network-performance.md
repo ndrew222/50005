@@ -191,10 +191,10 @@ Using the graph above:
   <li>Path 2: 3 Mbps (R1 → R3)</li>
 </ul>
 
-<p><strong>Pipelined transmission time for 1000 packets:</strong></p>
+<p><strong>Pipelined transmission time for 1000 packets:</strong></p>3
 <ul>
-  <li>Path 1: 1st packet delay + 999 × bottleneck delay = 8.4 ms + (999 × 4.0 ms) = <strong>3997.6 ms</strong></li>
-  <li>Path 2: 1st packet delay + 999 × bottleneck delay = 7.6 ms + (999 × 2.67 ms) = <strong>2665.6 ms</strong></li>
+  <li>Path 1: 1st packet delay + 999 × bottleneck delay = 8.4 ms + (999 × 4.0 ms) = <strong>4004.4 ms</strong></li>
+  <li>Path 2: 1st packet delay + 999 × bottleneck delay = 7.6 ms + (999 × 2.67 ms) = <strong>2674.9 ms</strong></li>
 </ul>
 
 <p><strong>Conclusion:</strong> Path 2 is better. Even though it has slightly higher delay on one link, its <strong>higher bottleneck bandwidth (3 Mbps)</strong> allows much better throughput. It completes 1000-packet transfer significantly faster than Path 1.</p>
@@ -225,8 +225,8 @@ In the diagram below:
 
 This format helps visualize packet timing in a way that aligns with packet capture tools or stack traces, where newer events appear lower.
 
-From the diagram above, we can deduce that propagation delay is around 6ms, and transmission delay is 2ms (which makes bandwidth to be 1
-0.4 Mbps). 
+From the diagram above, we can deduce that propagation delay is around 6ms, and transmission delay is 2ms (which makes bandwidth to be 4 Mbps). 
+
 
 ### Scenario
 

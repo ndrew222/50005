@@ -443,6 +443,9 @@ Below are the common (but not limited to) atomic instructions supported at the h
 - `fetch-and-add`
 - `compare-and-swap`
 - `load-link`/`store-conditional`
+ 
+{:note} 
+Watch [this](https://www.youtube.com/watch?v=QAzuAn3nFGo) video for fun if you'd like to see incredible visualisation about Peterson's Solution and why it failed in modern hardware.
 
 # Software Spinlocks and Mutex Locks
 

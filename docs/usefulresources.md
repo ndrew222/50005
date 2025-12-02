@@ -23,5 +23,8 @@ This page is dedicated to list certain useful and fun resources to aid your lear
 
 [The Fancy Algorithms That Make Your Computer Feel Smoother](https://www.youtube.com/watch?v=O2tV9q6784k): An excellent animation that details how CPU scheduling works. 
 
-### UNIX 
-[A commentary on the Sixth Edition UNIX Operating System, with Source Code](https://archive.org/details/CommentarySixthEditionUNIX/): A deep, line-by-line annotated commentary on the kernel source code of Version 6 Unix.
+### UNIX
+[A commentary on the Sixth Edition UNIX Operating System, with Source Code](https://archive.org/details/CommentarySixthEditionUNIX/): A deep, line-by-line annotated commentary on the source code of Version 6 Unix.
+
+### C Programming
+[The Ten Commandments for C Programmers](https://doc.cat-v.org/henry_spencer/ten-commandments) (Annotated Edition) by Henry Spencer, inventer of Regex: A humorous and sharp list detailing the ten worst "sins" committed by C programmers.

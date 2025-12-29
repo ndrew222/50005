@@ -28,7 +28,7 @@ This page is dedicated to list certain useful and fun resources to aid your lear
 
 [Original Thompson Shell](https://github.com/seosgithub/sh_unix_v6): Source code of the original UNIX shell, written by Ken Thompson, inventor of the Unix operating system, and the Go programming language, among other things. He also created `grep`.
 
-[xv6 shell](https://github.com/mit-pdos/xv6-riscv/blob/riscv/user/sh.c): An implementation of a simple shell by MIT for their xv6 Unix kernel. xv6 is a reimplementation of Unix V6 specifically for learning.
+[xv6 shell](https://github.com/mit-pdos/xv6-riscv/blob/riscv/user/sh.c): An implementation of a simple shell by MIT for their xv6 Unix kernel. xv6 is a reimplementation of Unix V6 specifically for learning. It would be good to look at the other utilities, like [cat.c](https://github.com/mit-pdos/xv6-riscv/blob/riscv/user/cat.c).
 
 ### C Programming
 [The Ten Commandments for C Programmers](https://doc.cat-v.org/henry_spencer/ten-commandments) (Annotated Edition) by Henry Spencer, inventer of Regex: A humorous and sharp list detailing the ten worst "sins" committed by C programmers.
